@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Manifest</string>
+    <string name="Services">Services</string>
+    <string name="Content_providers">Content providers</string>
+    <string name="Broadcast_Receivers">Broadcast Receivers</string>
+    <string name="Activity">Activity</string>
+</resources>
